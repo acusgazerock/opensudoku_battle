@@ -1,4 +1,9 @@
-# Open Sudoku
+# Open Sudoku With Battle
+
+add features battle, reference from [Open Sudoku](http://opensudoku.moire.org/)
+
+
+#Open Sudoku
 
 [Open Sudoku](http://opensudoku.moire.org/) is a simple open source sudoku game. It's designed to be controlled both by finger and keyboard. It's preloaded with 90 puzzles in 3 difficulty levels, more puzzles can be downloaded from the web and it also allows you to enter your own puzzles.
 
